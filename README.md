@@ -18,11 +18,12 @@
 
 - **[GameService FastAPI](https://github.com/Forgot-0/clone_steam)**: Проект на FastAPI с использованием MongoDB и Redis для кэширования данных.
 - **[Бот для покупки vpn vless](https://github.com/Forgot-0/vpn_tg_bot)**: Проект полность настроен и запущен в боевом режиме.  [@forgot_vpn_bot](https://t.me/forgot_vpn_bot)
-  
+- **[FastAPI Template](https://github.com/Forgot-0/fastapi_template)**: Проект представляет собой готовый к использованию шаблон приложения FastAPI, с комплексными функциями аутентификации и авторизации.
+
 ## 🏆 Статистика на GitHub:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Forgot-0&show_icons=true&theme=radical)
 
 ## 📫 Свяжитесь со мной:
 
 - **Telegram**: [@Forgot011](https://t.me/Forgot011)
----
+
