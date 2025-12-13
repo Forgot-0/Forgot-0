@@ -5,15 +5,7 @@
 Постоянно изучаю новые технологии и готов принимать вызовы в реальных проектах, чтобы развиваться как специалист.
 ## 🛠 Мой стек технологий:
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3.x-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-3.x-red?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.x-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-6.x-red?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8-black?style=for-the-badge&logo=apachekafka&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,django,docker,redis,mongodb,kafka,grafana,prometheus,&theme=light)](https://skillicons.dev)
 ## 🚀 Проекты:
 
 - **[Бот для покупки vpn vless](https://github.com/Forgot-0/vpn_tg_bot)**: Проект полность настроен и запущен в боевом режиме.  [@forgot_vpn_bot](https://t.me/forgot_vpn_bot)
@@ -26,3 +18,5 @@
 
 - **Telegram**: [@Forgot011](https://t.me/Forgot011)
 
+
+![!](https://komarev.com/ghpvc/?username=Forgot-0&color=blueviolet)
