@@ -19,4 +19,4 @@
 - **Telegram**: [@Forgot011](https://t.me/Forgot011)
 
 
-![!](https://komarev.com/ghpvc/?username=Forgot-0&color=blueviolet)
+![Profile Views](https://ghtb-counter.vercel.app/api/counter?username=Forgot-0&label=Profile%20Views&color=6366f1&style=flat)
