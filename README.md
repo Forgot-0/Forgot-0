@@ -5,7 +5,7 @@
 Постоянно изучаю новые технологии и готов принимать вызовы в реальных проектах, чтобы развиваться как специалист.
 ## 🛠 Мой стек технологий:
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,django,docker,redis,mongodb,kafka,grafana,prometheus,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,django,docker,redis,mongodb,kafka,grafana,prometheus&theme=light)](https://skillicons.dev)
 ## 🚀 Проекты:
 
 - **[Бот для покупки vpn vless](https://github.com/Forgot-0/vpn_tg_bot)**: Проект полность настроен и запущен в боевом режиме.  [@forgot_vpn_bot](https://t.me/forgot_vpn_bot)
