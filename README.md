@@ -12,8 +12,7 @@
 - **[FastAPI Template](https://github.com/Forgot-0/fastapi_template)**: Проект представляет собой готовый к использованию шаблон приложения FastAPI, с комплексными функциями аутентификации и авторизации.
 
 ## 📫 Свяжитесь со мной:
-
-- **Telegram**: [@Forgot011](https://t.me/Forgot011)
+- **Telegram**: [@dest_o1](https://t.me/dest_o1)
 
 
 ![Profile Views](https://ghtb-counter.vercel.app/api/counter?username=Forgot-0&label=Profile%20Views&color=6366f1&style=flat)
